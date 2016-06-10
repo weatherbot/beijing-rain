@@ -1,4 +1,4 @@
-## It rained the last time in Beijing on *June 10th 2016 around 04:57 pm*
-💧  **scattered clouds** *Humidity 44%*
+## It rained the last time in Beijing on *June 10th 2016 around 08:57 pm*
+💧  **light rain** *Humidity 31%*
 
-![scattered clouds](http://openweathermap.org/img/w/03d.png)
+![light rain](http://openweathermap.org/img/w/10n.png)
